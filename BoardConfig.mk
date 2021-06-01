@@ -169,7 +169,7 @@ TW_EXCLUDE_TWRPAPP := true
 TW_HAS_EDL_MODE := true
 
 # Asian region languages
-TW_EXTRA_LANGUAGES := true
+#TW_EXTRA_LANGUAGES := true
 # TW_DEFAULT_LANGUAGE := zh_CN
 
 # Debug flags
